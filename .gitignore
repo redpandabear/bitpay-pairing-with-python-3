@@ -1,3 +1,4 @@
+/tokens/local.pem
 /keys/local.pem
 .idea/**
 *.pyc
